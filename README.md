@@ -1,1 +1,1 @@
-# This is my Local Proj.
+Practice of Gen AI tools
